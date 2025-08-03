@@ -19,7 +19,7 @@ Now this time was the most exciting time till now because Dr.Arshdeep Singh gave
    *2:00 pm onward*
 We wrapped up the day witha session by the *CAUSMIC CLUB* and launch of induction activities
 
- ##Day 3 (2 August 2025)
+#### Day 3 (2 August 2025)
    *From 9 to 12 pm*
 The morning began with a expert lecture given by a very kind and famous personality named Dr. Jaswinder Singh . He is honored with national and international allocades including the **PRIDE OF ASIA** award and recorded in the **ASEAN WORLD RECORD** and the **INTERNATIONAL BOOK OF RECORDS** for is contributions.
 He frequently demonstrates exprimets wearing the knowledge jacket himself, making science more engaging.
