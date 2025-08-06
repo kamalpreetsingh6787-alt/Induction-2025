@@ -11,7 +11,7 @@ My first day at college ended at almost 4:00 pm when it was raining outside.
 
 ### Day 2 (1 August 2025)
    *From 9:30 to 11:30 am*
-Today was my second day of college , when i reached i met some familiar faces from yesterday anyway, we started the day with english proficiency test which took place in ME seminar Hall The decorem of class was properly maintained, the invigilators were also senior students. When the english test ended , maths test was served hot . I tried to answered almost every question.
+Today was my second day of college ,I started the day with english proficiency test which took place in ME seminar Hall The decorem of class was properly maintained, the invigilators were also senior students. When the english test ended , maths test was served hot . I tried to answered almost every question.
    *From 11:30 to 1:00 pm*
 It was now break time. I came across two seniors from **civil engineering** department , they were very welcoming, we chit chat a bit then i met a friend of mine who was in different department but it was a very short meeting due to mismatching schedule.
    *From 1:00 to 2:00 pm*
