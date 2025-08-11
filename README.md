@@ -9,7 +9,7 @@ All the students of CSE and IT were then invited to the auditorium.The auditoriu
 Many honorable guests were invited who gave different speeches on different topics for the welfare of the new students.
 My first day at college ended at almost 4:00 pm when it was raining outside.
 
-### Day 2 (1 August 2025)
+## Day 2 (1 August 2025)
    *From 9:30 to 11:30 am*
 Today was my second day of college ,I started the day with english proficiency test which took place in ME seminar Hall The decorem of class was properly maintained, the invigilators were also senior students. When the english test ended , maths test was served hot . I tried to answered almost every question.
    *From 11:30 to 1:00 pm*
@@ -19,7 +19,7 @@ Now this time was the most exciting time till now because Dr.Arshdeep Singh gave
    *2:00 pm onward*
 We wrapped up the day witha session by the *CAUSMIC CLUB* and launch of induction activities
 
-#### Day 3 (2 August 2025)
+## Day 3 (2 August 2025)
    *From 9 to 12 pm*
 The morning began with a expert lecture given by a very kind and famous personality named Dr. Jaswinder Singh . He is honored with national and international allocades including the **PRIDE OF ASIA** award and recorded in the **ASEAN WORLD RECORD** and the **INTERNATIONAL BOOK OF RECORDS** for is contributions.
 He frequently demonstrates exprimets wearing the knowledge jacket himself, making science more engaging.
@@ -38,7 +38,7 @@ The most touching part was when madam related this journey to inner peace — so
 
 Overall, the session helped me understand that before chasing degrees or careers, I must understand my deeper goals. I’m grateful for madam’s guidance — her clarity and kindness made the session feel not like a lecture, but like a conversation with purpose.
 
-#### Day 4 (4 August 2025)
+## Day 4 (4 August 2025)
 
  *From 9:30 AM – 10:30 AM*  
 The day began with an English lecture held in the ME Seminar Hall. It was conducted by **Prof. Aastik Sharma**, who delivered an engaging and insightful session. He focused on enhancing our communication skills and helped us understand the application of the English language in technical settings. The lecture set a strong academic tone for the rest of the day.
@@ -55,22 +55,18 @@ Post-break, we gathered in the **Auditorium** for an expert lecture on *Universa
 *From 2:30 PM – 3:30 PM*  
 The final session of the day was an interactive event organized by the **Causmic Club**, also held in the **Auditorium**. It was a lively and creative session with the seniors that allowed us to engage in team activities and understand the power of collaboration in a fun-filled environment. It was the perfect conclusion to a balanced and fulfilling day.
 
-##### Day 5 (5 August 2025)
+## Day 5 (5 August 2025)
 
 *From 9:30 AM – 10:30 AM*  
 The day began with a Peer-to-Peer (P2P) lecture conducted in the **TCC Seminar Hall**. The session encouraged student collaboration and discussion, making complex concepts easier to grasp through peer interaction. Simultaneously, another session was held in **Room F-107**, where **Prof. Sandeep Kaur** conducted a Mathematics lecture. Her teaching was clear and methodical, helping us strengthen our fundamentals in problem-solving.
 
----
-
 *From 10:30 AM – 11:30 AM*  
 The second session of the day was the **Basics of Electrical and Electronics Engineering (BEEE)** lecture, held in the **TCC Seminar Hall**. **Prof. Simranjeet Kaur** from the ECE department she introduced herself to us and also gave us the opportunity to introduce ourselves , it was a very interactive and good session . 
-
----
 
 *From 11:30 AM – 12:30 PM*  
 In the **TCC Seminar Hall**, **Prof. Sukhminder Singh** led Mathematics session. But for some reasons the session was cancelled and it was replaced by physics session , the physics teacher was very sweet , she told us many things about the phenomenas of physics , she also gave her introduction and gave us chance to introduce ourselves.
 
-###### Day 6 (6 August 2025)
+## Day 6 (6 August 2025)
 
 *From 9:30 to 10:30 AM*
 The day began with a Maths lecture in the ME Seminar Hall, conducted by Prof. Sukhminder Singh. The session focused on how to use technology as a help in mathematics , he told us about many apps to make te concept more clear. 
@@ -88,7 +84,7 @@ The auditorium hosted an expert lecture by Mr. Jasvir Singh Sekhon, the District
 *From 3:00 to 4:00 PM*
 Finally, Dr. Lakhvir Singh Khana, Incharge of CML, delivered an impactful lecture in the auditorium. He provided valuable insights on career development, research opportunities, and industry expectations, he also told us to join courses froorm SWAYAM NPTEL to make our college journey more smooth.
 
-####### Day 7 (7 August 2025)
+## Day 7 (7 August 2025)
 
 *From 9:30 to 10:30 AM*
 The day in the auditorium with a lecture by Dr. Amit Kamra, Incharge of DMC. He spoke about the skills that a student can develop in his college time , he is handling the GNDEC social media pages and  the students are given an opportunity to make the edits on college campus to enhance their skills. A special thanks to Amit Kamra Sir who gave this opportunity to join their club by making edits on GNDEC.   
@@ -108,6 +104,7 @@ The P2P session took place in **WORKSHOP SEM HALL** where we learned the new con
 *From 2:30 to 3:30*
 We attended the Chemistry lecture in Room F-109 with Prof. Karan Bhalla, where the discussion centered on basic chemical formulas and he also gave us an brief introduction about the chapters we have in the syllabus , his style of teaching makes the lecture more interesting. At 2:30 PM, we returned to Room F-109 for the Maths lecture by Prof. Sukhminder Singh, which focused on problem-solving strategies and practical applications of mathematical concepts.
 
+## Day 8 (8 August 2025)
 *From 9:00 to 10:30 AM*
 The day began at 9:00 AM with a BEEE lecture in the ME Seminar Hall, conducted by Prof. Simranjeet Kaur from the ECE department. The session focused on the fundamentals of electrical circuits and some numericals, with detailed explanations that made the concepts clearer.  
 
