@@ -70,6 +70,46 @@ The second session of the day was the **Basics of Electrical and Electronics Eng
 *From 11:30 AM – 12:30 PM*  
 In the **TCC Seminar Hall**, **Prof. Sukhminder Singh** led Mathematics session. But for some reasons the session was cancelled and it was replaced by physics session , the physics teacher was very sweet , she told us many things about the phenomenas of physics , she also gave her introduction and gave us chance to introduce ourselves.
 
+###### Day 6 (6 August 2025)
 
+*From 9:30 to 10:30 AM*
+The day began with a Maths lecture in the ME Seminar Hall, conducted by Prof. Sukhminder Singh. The session focused on how to use technology as a help in mathematics , he told us about many apps to make te concept more clear. 
 
+*From 10:30 to 11:30 AM*
+We continued in the ME Seminar Hall for the BEEE lecture, delivered by Prof. Simranjeet Kaur from the ECE department. She explained the basics of electrical engineering, especially circuit analysis and safety procedures, while also sharing useful notes for revision.
 
+From 11:30 AM to 12:30 PM, we had a short break, giving us time to relax and prepare for the afternoon sessions.
+
+The afternoon began at 12:30 PM in the auditorium with a lecture by Dr. Arvind Dhingra, the Director of STEP and Incharge of TAC. His talk was inspiring, focusing on innovation, skill development, and the importance of practical learning in today’s competitive world.
+
+*From 2:00 to 3:00 PM*
+The auditorium hosted an expert lecture by Mr. Jasvir Singh Sekhon, the District Resource Person for STEM. His session was engaging, covering the real-world applications of science, technology, engineering, and mathematics in industries, with examples that linked theory to practice.
+
+*From 3:00 to 4:00 PM*
+Finally, Dr. Lakhvir Singh Khana, Incharge of CML, delivered an impactful lecture in the auditorium. He provided valuable insights on career development, research opportunities, and industry expectations, he also told us to join courses froorm SWAYAM NPTEL to make our college journey more smooth.
+
+####### Day 7 (7 August 2025)
+
+*From 9:30 to 10:30 AM*
+The day in the auditorium with a lecture by Dr. Amit Kamra, Incharge of DMC. He spoke about the skills that a student can develop in his college time , he is handling the GNDEC social media pages and  the students are given an opportunity to make the edits on college campus to enhance their skills. A special thanks to Amit Kamra Sir who gave this opportunity to join their club by making edits on GNDEC.   
+
+*From 10:30 to 11:30 AM*
+We continued in the auditorium with Dr. Parminder Singh, Dean of Student Welfare, who addressed student support systems and welfare initiatives.
+
+*From 11:30 to 12:30 PM* 
+This was followed by a session by Dr. Randhir Singh on the “Conduct of Examination,” where he clearly explained examination rules, evaluation procedures, and discipline during exams. After this, 
+
+*From 12:30 PM to 1:30 PM*
+We had a lunch break.
+
+*From 1:30 to 2:30 PM*
+The P2P session took place in **WORKSHOP SEM HALL** where we learned the new concepts of C++.  
+
+*From 2:30 to 3:30*
+We attended the Chemistry lecture in Room F-109 with Prof. Karan Bhalla, where the discussion centered on basic chemical formulas and he also gave us an brief introduction about the chapters we have in the syllabus , his style of teaching makes the lecture more interesting. At 2:30 PM, we returned to Room F-109 for the Maths lecture by Prof. Sukhminder Singh, which focused on problem-solving strategies and practical applications of mathematical concepts.
+
+*From 9:00 to 10:30 AM*
+The day began at 9:00 AM with a BEEE lecture in the ME Seminar Hall, conducted by Prof. Simranjeet Kaur from the ECE department. The session focused on the fundamentals of electrical circuits and some numericals, with detailed explanations that made the concepts clearer.  
+
+*From 10:30 to 12 NOON*
+In the ME Seminar Hall, Prof. Jaswant Singh delivered a lecture on the tech advancements in todays world. His teaching style was very engaging.It was an interactive session in which he told us to explore about the things , how are they advancing so fast and whyyy?? , what is the logic behind the ARTIFICIAL INTELLIGENCE and finally he told us to cement our fundamentals .The morning concluded with a strong understanding of both technical and analytical concepts.
